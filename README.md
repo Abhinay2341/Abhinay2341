@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhinay
-- 👀 I’m interested in UI/UX Design and software development.
-- 🌱 I’m currently learning Dsa 
+- 👀 Just a confused man in his early 20's.
+- 🌱 I’m currently into improving my coding skills and logical thinking. 
 - 📫 How to reach me abhinaykrishna07@gmail.com
 
 <!---
