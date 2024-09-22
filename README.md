@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhinay
-- 👀 Just a confused man in his early 20's.
+- 👀 a confused man in his early 20's.
 - 🌱 I’m currently into improving my coding skills and logical thinking. 
 - 📫 How to reach me abhinaykrishna07@gmail.com
 
