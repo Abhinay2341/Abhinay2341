@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Abhinay
-- 👀 I’m interested in web dev,UI/UX Design and software development.
+- 👀 I’m interested in UI/UX Design and software development.
 - 🌱 I’m currently learning Dsa 
-- 🔭 I’m currently working on Design and fabrication of air quality management system for clean room using machine learning algorithms.
-- 📫 How to reach me baffledabhinaywanders@gmail.com
+- 📫 How to reach me abhinaykrishna07@gmail.com
 
 <!---
 Abhinay2341/Abhinay2341 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
